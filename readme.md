@@ -23,5 +23,5 @@ You do not need to fork this repository and make a pull request.
 - If there are 0 bottles left, do not show a link to "take one down"
   - Add a link to start over, which directs the user back to the home page.
 
-> You may need to do some further research on Handlebars to get it working! See if there's a way to create conditionals in Handlebars.
+> You may need to do some further research on Ejs to get it working! See if there's a way to create conditionals in Ejs.
 
