@@ -5,11 +5,9 @@ of bottles of beer.
 
 ## Instructions
 
-1. Clone this repository
+1. Fork and clone this repository
 2. Change into the new directory
 3. Work through the requirements listed below
-
-You do not need to fork this repository and make a pull request.
 
 ## Requirements
 
